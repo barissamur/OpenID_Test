@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO.Api", "SSO.Api\SSO.Api.csproj", "{6EA5B30D-3EE6-4986-8996-CEDBE59D286A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Web", "MVC.Web\MVC.Web.csproj", "{4B12E5D5-D820-44EC-8419-49188C8D483F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA5B30D-3EE6-4986-8996-CEDBE59D286A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA5B30D-3EE6-4986-8996-CEDBE59D286A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA5B30D-3EE6-4986-8996-CEDBE59D286A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA5B30D-3EE6-4986-8996-CEDBE59D286A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B12E5D5-D820-44EC-8419-49188C8D483F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B12E5D5-D820-44EC-8419-49188C8D483F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B12E5D5-D820-44EC-8419-49188C8D483F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B12E5D5-D820-44EC-8419-49188C8D483F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4E1E3FC-0E50-44FE-88AD-114CAC56396F}
+	EndGlobalSection
+EndGlobal
