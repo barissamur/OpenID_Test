@@ -37,7 +37,7 @@ update-database -Context PersistedGrantDbContext
 
 ### Change identity Login post method
 
-# Create mvc project and config program.cs
+# Create mvc web project and config program.cs
 
 
 
